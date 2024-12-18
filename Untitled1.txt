@@ -1,0 +1,3 @@
+# 输出 Spark 版本
+
+print(spark.version) # 打印 Spark 版本
